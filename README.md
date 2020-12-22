@@ -5,8 +5,8 @@ This project was initially created as a registration form. The logic is the same
 	
 ## Technologies
 Project is created with:
-HTML
-CSS
-Bootstrap
-PHP
-SQL
+*HTML
+*CSS
+*Bootstrap
+*PHP
+*SQL
