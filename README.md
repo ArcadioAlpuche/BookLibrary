@@ -10,3 +10,6 @@ Project is created with:
 * Bootstrap
 * PHP
 * SQL
+
+## What I Learned
+This project was my first time using PHP. I learned how PHP can be used to communicate with a SQL database. 
